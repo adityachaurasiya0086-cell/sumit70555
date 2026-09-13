@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "sumit gey",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "youtube",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "1234-UGRt.aternos.me",
+    "port": 42798,
     "version": "1.20.1",
     "try-creative": false
   },
