@@ -2077,3 +2077,8 @@ addLog(
 addLog("=".repeat(50));
 
 createBot();
+bot.on('time', () => {
+  if (bot.time.isNight) {
+    bot.chat('/time set day');
+  }
+});
